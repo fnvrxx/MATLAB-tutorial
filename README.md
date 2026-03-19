@@ -1,11 +1,17 @@
 # Tutorial MATLAB Lengkap: Dari Dasar hingga Advanced
 
+## TODO
+
+- [ ] Rapikan files
+- [ ] isi file "latihan.mat"
+
 Tutorial MATLAB komprehensif dalam Bahasa Indonesia, mencakup syntax dasar hingga OOP
 dan topik-topik kompleks seperti signal processing, image processing, dan parallel computing.
 
 ## Daftar Isi
 
 ### Bagian 1: Fundamental (Pemula)
+
 1. [Basic Syntax](01-basic-syntax/) - Hello World, komentar, perintah dasar
 2. [Data Types & Variables](02-data-types-and-variables/) - Tipe data, variabel, konversi
 3. [Operators & Expressions](03-operators-and-expressions/) - Aritmatika, logika, relasional
@@ -15,6 +21,7 @@ dan topik-topik kompleks seperti signal processing, image processing, dan parall
 7. [String Manipulation](07-string-manipulation/) - String, char array, formatting
 
 ### Bagian 2: Menengah
+
 8. [File I/O](08-file-io/) - Membaca/menulis file, CSV, Excel, MAT
 9. [Plotting & Visualization](09-plotting-and-visualization/) - 2D, 3D plots, customization
 10. [Error Handling](10-error-handling/) - try/catch, assertions, debugging
@@ -22,12 +29,14 @@ dan topik-topik kompleks seperti signal processing, image processing, dan parall
 12. [Advanced Functions](12-advanced-functions/) - Anonymous, nested, callbacks, varargin
 
 ### Bagian 3: OOP (Object-Oriented Programming)
+
 13. [OOP Basics](13-oop-basics/) - Class, properties, methods, constructor
 14. [OOP Intermediate](14-oop-intermediate/) - Inheritance, encapsulation, overloading
 15. [OOP Advanced](15-oop-advanced/) - Abstract, interface, events, metaclass
 16. [Design Patterns](16-design-patterns/) - Singleton, Observer, Strategy, Factory
 
 ### Bagian 4: Topik Kompleks
+
 17. [Numerical Methods](17-numerical-methods/) - ODE, interpolasi, optimisasi
 18. [Signal Processing](18-signal-processing/) - FFT, filter, spektral analisis
 19. [Image Processing](19-image-processing/) - Transformasi, segmentasi, deteksi tepi
